@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\37625\\Desktop\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "D:\\software\\git\\TEST\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\Users\\37625\\Desktop\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectPath": "D:\\software\\git\\TEST\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "packagesPath": "C:\\Users\\37625\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\37625\\Desktop\\WpfApp1\\WpfApp1\\obj\\",
+      "outputPath": "D:\\software\\git\\TEST\\WpfApp1\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\software\\vs2019\\Shares\\NuGetPackages"

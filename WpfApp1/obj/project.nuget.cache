@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oeXiJEnmBLt7+I0CXhuirA3JqearB+oelrDU/HdvbgpnQRkUKhew/6u8z5tRXgBajJnky+NOI6gLMpX2KWniVQ==",
+  "dgSpecHash": "CnYp8B8J++QHzAmdsWhfYCjVKYftosllqmdq40KcflZLhG7QQmjdJk0lH2+p1X1aTdM10XYAqHtlSz+zCQYqdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\37625\\Desktop\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "projectFilePath": "D:\\software\\git\\TEST\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\37625\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
